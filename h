@@ -1,0 +1,167 @@
+[33mcommit 049101acef28c94fec20d7fc3deb8dca82b03354[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: ab98ed8 d444a3d
+Author: kshitiz <kshitiz@beanbyte.dev>
+Date:   Fri Sep 6 17:38:48 2024 +0530
+
+    Merge branch 'main' of https://github.com/KshitizSachan/devops-project
+
+[33mcommit ab98ed8f3eff29f98281d5561cf7e4a2ea52ef3a[m
+Author: kshitiz <kshitiz@beanbyte.dev>
+Date:   Fri Sep 6 17:38:40 2024 +0530
+
+    revert experiment try 2
+
+[33mcommit d444a3db3feb92dcb528ccb3b5a65d62276d35b4[m
+Merge: 01b9571 2999d9c
+Author: Priyal2403 <inglepriyal69@gmail.com>
+Date:   Fri Sep 6 17:36:55 2024 +0530
+
+    Merge branch 'main' of https://github.com/KshitizSachan/devops-project
+
+[33mcommit 01b9571426eae6f351bbb2b7b1ba7b76e0dd3ebb[m
+Author: Priyal2403 <inglepriyal69@gmail.com>
+Date:   Fri Sep 6 17:36:34 2024 +0530
+
+    softReset
+
+[33mcommit 2999d9c7caa3f397420e0b590e4fa025b12c5a81[m[33m ([m[1;31morigin/sarthak-branch[m[33m, [m[1;31morigin/prasad_branch[m[33m, [m[1;31morigin/Branch_Rounish[m[33m)[m
+Merge: 50686c6 36e37af
+Author: RoChan69 <rounishchandra05@gmail.com>
+Date:   Fri Sep 6 17:31:14 2024 +0530
+
+    Merge branch 'main' of https://github.com/KshitizSachan/devops-project
+
+[33mcommit 50686c63587a3b72e4861c105779402d81bbe8dd[m
+Author: RoChan69 <rounishchandra05@gmail.com>
+Date:   Fri Sep 6 17:30:43 2024 +0530
+
+    Hey this is my first git
+
+[33mcommit 36e37af198f603bd8b926852536dd5f817843883[m
+Merge: 1ffd15d eee6c6b
+Author: prasadmore03 <moreprasad120@gmail.com>
+Date:   Fri Sep 6 17:30:28 2024 +0530
+
+    Merge branch 'main' of https://github.com/KshitizSachan/devops-project
+
+[33mcommit 1ffd15dd2781a25a57a03cecba9f218ab413d568[m
+Author: prasadmore03 <moreprasad120@gmail.com>
+Date:   Fri Sep 6 17:30:17 2024 +0530
+
+    prasad commit
+
+[33mcommit eee6c6b3c6df856ee52a5a74f94ecb8b1a33a837[m
+Merge: c2a0a39 03bab97
+Author: Priyal2403 <inglepriyal69@gmail.com>
+Date:   Fri Sep 6 17:30:05 2024 +0530
+
+    Merge branch 'main' of https://github.com/KshitizSachan/devops-project
+
+[33mcommit c2a0a390eabc4878f4614d8eed4a79e827a8dbb4[m
+Author: Priyal2403 <inglepriyal69@gmail.com>
+Date:   Fri Sep 6 17:29:20 2024 +0530
+
+    Revert "priyal2ndCommit"
+    
+    This reverts commit a66dbe819cd9ebe4cf6e7a6df7b79bde0467a4b8.
+
+[33mcommit a66dbe819cd9ebe4cf6e7a6df7b79bde0467a4b8[m
+Author: Priyal2403 <inglepriyal69@gmail.com>
+Date:   Fri Sep 6 17:28:55 2024 +0530
+
+    priyal2ndCommit
+
+[33mcommit 03bab97917a0cdb54db5a52d6f93ae83928517a4[m
+Merge: 18fcc07 3801861
+Author: Kshitiz Sachan <97247354+KshitizSachan@users.noreply.github.com>
+Date:   Fri Sep 6 17:25:04 2024 +0530
+
+    Merge pull request #3 from KshitizSachan/special_branch
+    
+    made special_program
+
+[33mcommit 3801861827e30eb6fca0e185ee98e4a4486f4152[m[33m ([m[1;31morigin/special_branch[m[33m, [m[1;32mspecial_branch[m[33m)[m
+Author: kshitiz <kshitiz@beanbyte.dev>
+Date:   Fri Sep 6 17:24:19 2024 +0530
+
+    made special_program
+
+[33mcommit 18fcc07cb61aafebe7fe2ba786a2b54f323326a2[m
+Merge: c6830d0 bcf9499
+Author: Aditya Sethiya <adityasethiya074@gmail.com>
+Date:   Fri Sep 6 17:19:46 2024 +0530
+
+    Merge branch 'main' of https://github.com/KshitizSachan/devops-project
+
+[33mcommit c6830d0c9f874737406be4b2fb426b09157d88b4[m
+Author: Aditya Sethiya <adityasethiya074@gmail.com>
+Date:   Fri Sep 6 17:19:37 2024 +0530
+
+    basic programs by ADITYA added
+
+[33mcommit bcf949924dcb071938056366ff96b4299f3fddb8[m
+Merge: 48f581a a4d12d7
+Author: Priyal Ingle <123137548+Priyal2403@users.noreply.github.com>
+Date:   Fri Sep 6 17:19:12 2024 +0530
+
+    Merge pull request #2 from KshitizSachan/secondaryBranch
+    
+    secondaryBranchCommit
+
+[33mcommit a4d12d72df6e3923d3060fedccd0c6a10869f89e[m[33m ([m[1;31morigin/secondaryBranch[m[33m)[m
+Author: Priyal2403 <inglepriyal69@gmail.com>
+Date:   Fri Sep 6 17:17:51 2024 +0530
+
+    secondaryBranchCommit
+
+[33mcommit 48f581adfdaeed6044c1feb2d177d5f4f9950f13[m
+Merge: 77a8fab df4f0e9
+Author: Kshitiz Sachan <97247354+KshitizSachan@users.noreply.github.com>
+Date:   Fri Sep 6 17:17:43 2024 +0530
+
+    Merge pull request #1 from KshitizSachan/kshitiz-dev
+    
+    sassy js program
+
+[33mcommit df4f0e99adc78863d946c2cf34723846ec24371c[m[33m ([m[1;31morigin/kshitiz-dev[m[33m, [m[1;32mkshitiz-dev[m[33m)[m
+Author: kshitiz <kshitiz@beanbyte.dev>
+Date:   Fri Sep 6 17:16:48 2024 +0530
+
+    sassy js program
+
+[33mcommit 77a8fab719ad660f3cb9a2c95c21ee948b8e50f8[m
+Author: kshitiz <kshitiz@beanbyte.dev>
+Date:   Fri Sep 6 17:07:42 2024 +0530
+
+    simple program from js
+
+[33mcommit cb4fb603b210b6549f461a748fbfd3521114d91d[m
+Merge: d053aaa efb1c7b
+Author: Sarthak <sarthak@beanbyte.dev>
+Date:   Fri Sep 6 17:04:35 2024 +0530
+
+    Merge branch 'main' of https://github.com/KshitizSachan/devops-project
+
+[33mcommit d053aaa7355e1471000a189ab48c5ae34d8d6996[m
+Author: Sarthak <sarthak@beanbyte.dev>
+Date:   Fri Sep 6 17:04:18 2024 +0530
+
+    cpp sample code - sarthak
+
+[33mcommit efb1c7b6fad136e0e39195befd2bf545614c9d3c[m
+Author: Priyal2403 <inglepriyal69@gmail.com>
+Date:   Fri Sep 6 17:03:32 2024 +0530
+
+    patternPrinting
+
+[33mcommit 3359067143c9b5f479824c4d1074360d2302bc7e[m
+Author: kshitiz <kshitiz@beanbyte.dev>
+Date:   Fri Sep 6 16:56:16 2024 +0530
+
+    first sample commit in readme
+
+[33mcommit ed94cfc19545991e27cf6ff16db4c34e5366432c[m
+Author: Kshitiz Sachan <97247354+KshitizSachan@users.noreply.github.com>
+Date:   Fri Sep 6 16:49:04 2024 +0530
+
+    Initial commit
